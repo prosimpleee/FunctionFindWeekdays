@@ -1,2 +1,2 @@
-# function_to_find_weekdayss
-Easy way to find weekdays if you have holidays table, function SQL
+# fun_to_find_weekdays
+Easy way to find weekdays if you have a holidays table, function SQL
